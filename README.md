@@ -95,5 +95,5 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 Neeraj Kumar             
 Data Analyst Trainee                             
 LinkedIn Profile: www.linkedin.com/in/neeraj-kumar1827                       
-GitHub Profile: 
+GitHub Profile: https://github.com/NeerajKumar2712
 
